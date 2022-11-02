@@ -1,4 +1,4 @@
-## FILE & PUBLIC CLONING FREE
+## RANDOM CLONING FREE
 ## COMMAND
 `pkg install python`
 
@@ -14,13 +14,13 @@
 
 `pip install mechanize`
 
-`rm -rf GREEN-LOVER`
+`rm -rf UID-6-GREEN`
 
-`git clone https://github.com/TANJIM-143/GREEN-LOVER`
+`git clone https://github.com/TANJIM-143/UID-6-GREEN.git`
 
-`cd GREEN-LOVER`
+`cd UID-6-GREEN`
 
-`python GREEN-LOVER.py`
+`python green.py`
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=+Assalamu+Alaikum+;++It's+Not+Only+Just+Name+,;It's+A+Brand+TANJIM-143+,,;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 
